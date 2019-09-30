@@ -1,0 +1,16 @@
+{
+  "customers": [
+    {
+      "name": "no name",
+      "email": "no email",
+      "age": 50,
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "something 3",
+      "email": "something3@gmail.com",
+      "age": 33
+    }
+  ]
+}
