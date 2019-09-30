@@ -8,7 +8,11 @@ To install:
 - `npm install` 
 
 Finally to run the app open 2 terminals to the root directory and run the following commands:
-terminal 1 (Mock API using JSON Server): - npm run json (this will run on "http://localhost:3000")
-terminal 2 (GraphiQL IDE): - npm run dev (this will run on "http://localhost:4000")
+
+Terminal 1 Command (Mock API using JSON Server)
+- npm run json (this will run on "http://localhost:3000")
+
+Terminal 2 Command (GraphiQL IDE) 
+- npm run dev (this will run on "http://localhost:4000")
 
 
